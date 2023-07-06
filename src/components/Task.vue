@@ -23,7 +23,6 @@
           </li>
         </ul>
       </div>
-      <!-- buttons -->
       <div class="clearBtns">
         <button>Clear completed</button>
         <button>Clear all</button>
